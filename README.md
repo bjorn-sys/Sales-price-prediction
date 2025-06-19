@@ -143,7 +143,7 @@
 * Segment high-value customers and create tailored sales strategies or premium services for them.
 
 
-5. Leverage Top-Performing Products and Categories
+4. Leverage Top-Performing Products and Categories
 
 * Though not detailed here, a deeper product-level analysis can identify best-selling items.
 
