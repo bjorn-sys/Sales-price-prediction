@@ -140,11 +140,6 @@
 
 * Increase inventory availability, local marketing campaigns, and customer support in these areas.
 
-
-4. Address Sales Outliers
-
-* A small number of extremely high-value sales heavily influence the average sales figure.
-
 * Segment high-value customers and create tailored sales strategies or premium services for them.
 
 
@@ -154,19 +149,6 @@
 
 * Promote these products more aggressively and consider bundling them with slower-moving stock.
 
-
-6. Improve Data Completeness
-
-* While missing data was minimal, strive to reduce any loss of key information (e.g., postal codes) during data collection for better geographic analysis.
-
-
-7. Invest in Forecasting Models
-
-* Use time series or machine learning models to forecast demand by product, region, and segment.
-
-* This helps optimize stock levels, reduce overstocking, and improve supply chain efficiency.
-
----
 
 # 📈 Conclusion
 
