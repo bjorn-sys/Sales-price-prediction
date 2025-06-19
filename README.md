@@ -60,10 +60,23 @@
 
 # 🚚 Ship Mode Usage
 
+* Standard Class   **5788**
+  
+* Second Class   **1877**
+  
+* First Class   **1481**
+  
+* Same Day    **531**
+
 * The Standard Class shipping method was the most frequently used, accounting for **5,788** transactions.
 
 
 # 💰 Revenue by Ship Mode
+
+* Standard Class **$1,041468.86**
+* Second Class  **$350,717.17**
+* First Class  **$264,204.28**
+* Same Day  **$100,217.06**
 
 * Standard Class also generated the highest revenue, totaling approximately **$1,041,468.86**
 
@@ -74,6 +87,10 @@
 # 👥 Customer Segment Analysis
 
 # 📦 Transaction Count by Segment
+
+* Consumer   **5041**
+* Corporate   **2917**
+* Home Office   **1719**
 
 * The Consumer segment had the highest number of transactions, approximately 5,041 records.
 
@@ -92,12 +109,12 @@
 
 # 🛍️ Top Cities by Transaction Count
 
-* New York City topped the list with 868 transactions, followed by Los Angeles and Philadelphia.
+* **New York City** topped the list with **868** transactions, followed by **Los Angeles** and **Philadelphia.**
 
 
 # 💰 Top Cities by Revenue
 
-* New York City led in revenue generation, with approximately **$165,554.67**.
+* **New York City** led in revenue generation, with approximately **$165,554.67**.
 
 
 
@@ -107,7 +124,7 @@
 
 # 📦 Top States by Transaction Count
 
-* California recorded the highest number of sales, with **1,923** transactions.
+* **California** recorded the highest number of sales, with **1,923** transactions.
 
 
 # 💸 Top States by Revenue
