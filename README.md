@@ -129,7 +129,7 @@
 
 # 💸 Top States by Revenue
 
-# California also led in revenue generation, contributing approximately **$365,159.08**.
+* California also led in revenue generation, contributing approximately **$365,159.08**.
 
 # 💸Top Product by Revenue
 *   The SAFCO Arco Folding Chair  generated the most revenue which was about **$11572.780**
